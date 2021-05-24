@@ -1,0 +1,7 @@
+GET http://localhost:9200
+Content-Type: application/json
+
+<> 2020-12-18T104958.200.json
+
+###
+
