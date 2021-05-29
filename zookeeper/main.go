@@ -7,7 +7,7 @@ import (
 )
 
 var (
-	host = []string{"49.232.175.190:2181"}
+	host = []string{"127.0.0.1:2181"}
 )
 
 func main()  {
